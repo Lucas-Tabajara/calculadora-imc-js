@@ -2,6 +2,9 @@
 
 Projeto desenvolvido para consolidar conhecimentos em manipulação de DOM e lógica de programação com JavaScript puro. A interface utiliza conceitos modernos de design como Glassmorphism.
 
+# Acesse agora:
+link: [https://calculadoradeimc01.netlify.app/](https://calculadoradeimc01.netlify.app/)
+
  <img width="1364" height="647" alt="image" src="https://github.com/user-attachments/assets/06a72a6c-6fdb-4c08-a539-d7cb96219206" />
 
 ## 🚀 Tecnologias e Conceitos
